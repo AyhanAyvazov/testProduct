@@ -1,0 +1,15 @@
+C:\Users\Laptomania\Desktop\ProductWithCategory\obj\Debug\net7.0\ProductWithCategory.csproj.AssemblyReference.cache
+C:\Users\Laptomania\Desktop\ProductWithCategory\obj\Debug\net7.0\ProductWithCategory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptomania\Desktop\ProductWithCategory\obj\Debug\net7.0\ProductWithCategory.AssemblyInfoInputs.cache
+C:\Users\Laptomania\Desktop\ProductWithCategory\obj\Debug\net7.0\ProductWithCategory.AssemblyInfo.cs
+C:\Users\Laptomania\Desktop\ProductWithCategory\obj\Debug\net7.0\ProductWithCategory.csproj.CoreCompileInputs.cache
+C:\Users\Laptomania\Desktop\ProductWithCategory\bin\Debug\net7.0\ProductWithCategory.exe
+C:\Users\Laptomania\Desktop\ProductWithCategory\bin\Debug\net7.0\ProductWithCategory.deps.json
+C:\Users\Laptomania\Desktop\ProductWithCategory\bin\Debug\net7.0\ProductWithCategory.runtimeconfig.json
+C:\Users\Laptomania\Desktop\ProductWithCategory\bin\Debug\net7.0\ProductWithCategory.dll
+C:\Users\Laptomania\Desktop\ProductWithCategory\bin\Debug\net7.0\ProductWithCategory.pdb
+C:\Users\Laptomania\Desktop\ProductWithCategory\obj\Debug\net7.0\ProductWithCategory.dll
+C:\Users\Laptomania\Desktop\ProductWithCategory\obj\Debug\net7.0\refint\ProductWithCategory.dll
+C:\Users\Laptomania\Desktop\ProductWithCategory\obj\Debug\net7.0\ProductWithCategory.pdb
+C:\Users\Laptomania\Desktop\ProductWithCategory\obj\Debug\net7.0\ProductWithCategory.genruntimeconfig.cache
+C:\Users\Laptomania\Desktop\ProductWithCategory\obj\Debug\net7.0\ref\ProductWithCategory.dll

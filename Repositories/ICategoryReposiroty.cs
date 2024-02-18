@@ -1,16 +1,12 @@
 ﻿using ProductWithCategory.Models;
-using ProductWithCategory.Repositories.GenericRepositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProductWithCategory.Repositories
 {
-    internal interface ICategoryReposiroty : IGenericRepository<Category>
+    public interface ICategoryReposiroty 
 
     {
-        Category GetSignleCategoryByIdWithProduct(int categoryId);
+        List<Category> GetAll();
+
+        Category GetById(int categoryId);
     }
 }

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProductWithCategory.Repositories
+namespace ProductWithCategory.Models
 {
-    internal interface IGenericRepository
+    public interface IEntity
     {
     }
 }
